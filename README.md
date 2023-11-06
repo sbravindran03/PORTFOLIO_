@@ -57,4 +57,16 @@ The portfolio website will include the following key features:
 5. Future Enhancements
 In the future, additional features could be considered:
 •	Integration with a content management system (CMS) for easier content updates.
-•	An interactive resume builder. 
+•	An interactive resume builder.
+
+
+Step 1: Setup Your Development Environment
+
+Install Node.js and npm (Node Package Manager) if you haven't already.
+Open your terminal and run the following command to create a new React project:
+
+**npx create-react-app portfolio-website**
+
+Navigate to your project directory:
+
+**cd portfolio-website**
