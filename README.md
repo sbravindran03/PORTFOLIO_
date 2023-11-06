@@ -57,4 +57,4 @@ The portfolio website will include the following key features:
 5. Future Enhancements
 In the future, additional features could be considered:
 •	Integration with a content management system (CMS) for easier content updates.
-•	An interactive resume builder.
+•	An interactive resume builder. 
